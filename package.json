@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "node-os-utils": "^1.3.7"
+  }
 }
